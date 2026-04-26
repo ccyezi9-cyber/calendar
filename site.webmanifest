@@ -1,0 +1,19 @@
+{
+  "name": "约稿日历",
+  "short_name": "约稿日历",
+  "description": "约稿日历",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "./index.html",
+  "scope": "./",
+  "background_color": "#fdf2f8",
+  "theme_color": "#eff6ff",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
